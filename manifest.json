@@ -1,0 +1,8 @@
+{
+    "display_name": "Logic Helper",
+    "plugin_id": "logic_helper_plugin",
+    "version": "1.0.0",
+    "author": "znq19",
+    "description": "提供精确的数字比较和计数工具，避免AI常见的逻辑误解。",
+    "repo": null
+}

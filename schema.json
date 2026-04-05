@@ -1,0 +1,7 @@
+{
+  "test_string": {
+    "type": "string",
+    "default": "default value",
+    "hint": "纯占位，不用管"
+  }
+}

@@ -4,5 +4,5 @@
     "version": "1.0.0",
     "author": "znq19",
     "description": "提供精确的数字比较和计数工具，避免AI常见的逻辑误解。",
-    "repo": null
+    "repo": "https://github.com/znq19/KiraAI_logic_helper_plugin"
 }
